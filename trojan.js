@@ -1,1 +1,1 @@
-console.log();
+console.log(); ESCRIBO CUALQUIER COSA PORQUE NO SE QUE HACER
